@@ -1,6 +1,8 @@
 # logistic4p
 Logistic Regressions with Misclassification Correction Use logistic4p With (In) R Software
 
+https://www.youtube.com/watch?v=wZsgwzrR6Xs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
